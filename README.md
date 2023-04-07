@@ -1,6 +1,7 @@
 # Selection-Sort
 
-[7,3,5,8,2,9,4,15,6] örüntüsünü Selection-Sort ile sıralamak istediğimiz zaman ilk önce EN KÜÇÜK VERİYİ BULUP İLK İNDEXTEKİ İLE YERLERİNİ DEĞİŞTİRİYORUZ.
+[7,3,5,8,2,9,4,15,6] örüntüsünü Selection-Sort ile sıralamak istediğimiz zaman 
+    ilk önce EN KÜÇÜK VERİYİ bulup ilk index'teki veri ile yerlerini değiştiriyoruz.
 
 ( " Recursive Mantığı içerir. " ) bus durumu sağlanana kadar tekrar eder yani stop. Buradaki bus durumu örüntünün index boyutunun en sonki yer değişimi yapacağı index'in numarasına eşit olmasıdır.Bu, Array'in ilk index'i 0 ile başlayan bazı programlama dillerinde index-1 e eşit olana kadar sağlanır.
 
